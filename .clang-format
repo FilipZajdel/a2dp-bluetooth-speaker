@@ -1,0 +1,14 @@
+#BasedOnStyle: Chromium
+Language: Cpp
+PointerAlignment: Right
+ColumnLimit: 80
+IndentWidth: 4
+AlignConsecutiveAssignments: true
+AllowShortCaseLabelsOnASingleLine: false
+IndentCaseLabels: true
+BreakBeforeBraces: Linux
+SortIncludes: false
+MaxEmptyLinesToKeep: 2
+AlignConsecutiveDeclarations: true
+AlignConsecutiveAssignments: true
+AllowShortFunctionsOnASingleLine: false
